@@ -8,4 +8,3 @@ New, improved version of Financial Dashboard with matplotlib and MySQL implement
 17/0/2022: VERSION 1 UPDATE
 - Add MySQL LOCAL NETWORK CONNECTION
 - Add exe file
-- 
